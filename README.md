@@ -1,7 +1,7 @@
-# Exercise04a-StateMachines
+# Exercise04a-StateMachines  Marco Marquez
 
 ## Implementation
-Which features you included.
+Added charcter sprite and movements:idle, walking, and jumping / falling.
 
 ## References
 
